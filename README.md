@@ -30,9 +30,10 @@ The backend is designed to work with React + TypeScript frontend and is structur
 <br>
 <br>
 ## Getting Started
+<br>
 1. Clone the repository
 <br>
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/MonishaSR27/wifi-backend.git
 <br>
 cd backend
 <br>
